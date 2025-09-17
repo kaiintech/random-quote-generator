@@ -38,3 +38,4 @@ while True:
 
     author, quote = random.choice(list(quotes.items()))
     print(f"\n{author}: \"{quote}\"\n")
+
