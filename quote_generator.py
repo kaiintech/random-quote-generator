@@ -19,13 +19,24 @@ quotes = {
     "Leonardo da Vinci": "Learning never exhausts the mind.",
     "Walt Disney": "The way to get started is to quit talking and begin doing.",
     "Eleanor Roosevelt": "The future belongs to those who believe in the beauty of their dreams.",
-    "Henry Ford": "Whether you think you can, or you think you can't,  you're right.",
+    "Henry Ford": "Whether you think you can, or you think you can't, you're right.",
     "Marcus Aurelius": "You have power over your mind - not outside events. Realize this, and you will find strength.",
     "Seneca": "It is not the man who has too little, but the man who craves more, that is poor.",
     "Epictetus": "It's not what happens to you, but how you react to it that matters.",
     "Plato": "Courage is knowing what not to fear.",
-    "Ralph Waldo Emerson": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+    "Ralph Waldo Emerson": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "Friedrich Nietzsche": "He who has a why to live can bear almost any how.",
+    "Lao Tzu": "The journey of a thousand miles begins with a single step.",
+    "Mahatma Gandhi": "Be the change that you wish to see in the world.",
+    "Carl Jung": "Who looks outside, dreams; who looks inside, awakes.",
+    "Victor Hugo": "Even the darkest night will end and the sun will rise.",
+    "Charles Dickens": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.",
+    "William Shakespeare": "We know what we are, but know not what we may be.",
+    "Khalil Gibran": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "Bruce Lee": "Absorb what is useful, discard what is not, add what is uniquely your own.",
+    "Alan Watts": "Trying to define yourself is like trying to bite your own teeth."
 }
+
 
 print('>> Welcome to the Inspirational Quote Generator. type press "q" to quit <<\n')
 
@@ -38,4 +49,5 @@ while True:
 
     author, quote = random.choice(list(quotes.items()))
     print(f"\n{author}: \"{quote}\"\n")
+
 
