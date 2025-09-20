@@ -71,6 +71,16 @@ Quotes curated from a diverse group of thinkers, creators, and visionaries:
 - Epictetus
 - Plato
 - Ralph Waldo Emerson
+- Friedrich Nietzsche
+- Lao Tzu
+- Mahatma Gandhi
+- Carl Jung
+- Victor Hugo
+- Charles Dickens
+- William Shakespeare
+- Khalil Gibran
+- Bruce Lee
+- Alan Watts
 
 ---
 
